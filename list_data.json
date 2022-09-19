@@ -17,30 +17,6 @@
 			"Date": "8.24.2019",
 			"Venue": "The Anthem; Washington, DC, USA",
 			"Type of Music": "Psychadelic Rock"
-		},
-		{
-			"Artist": "Foo Fighters",
-			"Date": "9.9.2021",
-			"Venue": "9:30 Club; Washington, DC, USA",
-			"Type of Music": "Rock"
-		},
-		{
-			"Artist": "IDLES",
-			"Date": "6.5.2022",
-			"Venue": "Cupra Stage - Prima Vera Sound Festival; Barcelona, Spain",
-			"Type of Music": "Punk"
-		},
-		{
-			"Artist": "Frank Ocean",
-			"Date": "7.22.2017",
-			"Venue": "FYF Festival; Los Angeles, CA, USA",
-			"Type of Music": "R&B"
-		},
-		{
-			"Artist": "Red Hot Chili Peppers",
-			"Date": "10.16.2016",
-			"Venue": "AccorHotels Arena; Paris, France",
-			"Type of Music": "Rock"
 		}
 	]
 }
