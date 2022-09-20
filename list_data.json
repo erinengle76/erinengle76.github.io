@@ -1,22 +1,40 @@
 {
 	"Top Concerts": [
 		{
-			"Artist": "King Crimson",
 			"Date": "11.17.2016",
 			"Venue": "Opéra de Monte-Carlo - Salle Garnier; Monaco",
+			"Artist": "King Crimson",
 			"Type of Music": "Prog Rock"
 		},
 		{
-			"Artist": "James Blake",
 			"Date": "11.1.2016",
 			"Venue": "Eventim Apollo; London, England",
+			"Artist": "James Blake",
 			"Type of Music": "Contemporary R&B; Electropop"
 		},
 		{
-			"Artist": "Tame Impala",
 			"Date": "8.24.2019",
 			"Venue": "The Anthem; Washington, DC, USA",
-			"Type of Music": "Psychadelic Rock"
+			"Artist": "Tame Impala",
+			"Type of Music": "Psychedelic Rock"
+		},
+		{
+			"Date": "1.21.2017",
+			"Venue": "Haus der Berliner Festspiele; Berlin, Germany",
+			"Artist": "Tangerine Dream",
+			"Type of Music": "Electronic"
+		},
+		{
+			"Date": "7.22.2017",
+			"Venue": "FYF Festival; Los Angeles, CA, USA",
+			"Artist": "Frank Ocean",
+			"Type of Music": "R&B"
+		},
+		{
+			"Date": "6.5.2022",
+			"Venue": "Prima Vera Sound; Barcelona, Spain",
+			"Artist": "IDLES",
+			"Type of Music": "Punk"
 		}
 	]
 }
